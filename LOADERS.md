@@ -1,5 +1,7 @@
 # Byte Software - Roblox Script Loaders
 
+A collection of the loaders of our Roblox scripts created by Byt3c0de (@byt3c0de.net).
+
 ## Loadstrings
 
 Below are all publicly available loadstrings for the scripts in this repository.
