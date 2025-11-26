@@ -22,6 +22,12 @@ Everything is fully open source, so feel free to study, modify, and build upon i
 
 ---
 
+## Script Loader
+
+Our collection of the latest loaders of our Roblox scripts can be found **[here](https://github.com/byt3c0de-net/bytesoftware-roblox/blob/main/LOADERS.md)**
+
+---
+
 ## Credits
 
 **Created by:**  
