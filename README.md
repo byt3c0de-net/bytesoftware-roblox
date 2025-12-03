@@ -1,5 +1,5 @@
 # Byte Software - Roblox Scripts
-A collection of open-source Roblox scripts created by Byt3c0de (@byt3c0de.net). Shared for learning, experimentation, and helping developers build better projects.
+A collection of open-source Roblox scripts created by Byte CBT (@byte.cbt). Shared for learning, experimentation, and helping developers build better projects.
 
 This collection exists to:
 - Help new developers learn from real, fully working scripts  
@@ -31,7 +31,7 @@ Our collection of the latest loaders of our Roblox scripts can be found **[here]
 ## Credits
 
 **Created by:**  
-- **[Byt3c0de](https://byt3c0de.net/)** (@byt3c0de.net)  
+- **[Byte CBT](https://byt3c0de.net/)** (@byte.cbt)  
 - **[Byte Software](https://bytesoftware.net/)** (discord.gg/bytesoftware)
 
 **Special thanks:**  
@@ -43,7 +43,7 @@ Your feedback, ideas, and motivation helped make this possible.
 ## License
 
 This repository is open source.  
-You can use the code freely, but please credit **Byt3c0de (@byt3c0de)** if you use or redistribute parts of it.
+You can use the code freely, but please credit **Byte CBT (@byte.cbt)** if you use or redistribute parts of it.
 
 ---
 
@@ -63,7 +63,7 @@ I hope my work inspires creativity and helps you on your own development journey
 
 **Have fun coding!**<br><br>
 
-***Byt3c0de • 18/11/2025***
+***Byte CBT • 18/11/2025***
 
 
 <p align="center">
