@@ -1,6 +1,6 @@
 # Byte Software - Roblox Script Loaders
 
-A collection of the latest loaders of our Roblox scripts created by Byt3c0de (@byt3c0de.net).
+A collection of the latest loaders of our Roblox scripts created by Byte CBT (@byte.cbt).
 
 ## Loadstrings
 
@@ -39,9 +39,9 @@ loadstring(game:HttpGet("https://bytesoftware.net/roblox/flygui/loader.lua", tru
 loadstring(game:HttpGet("https://bytesoftware.net/roblox/antiafk/loader.lua", true))()
 ```
 
-<br><br>***Byt3c0de • 18/11/2025***
+<br><br>***Byte CBT • 18/11/2025***
 
 
 <p align="center">
-  <img src="https://bytesoftware.net/images/bs_banner_rounded.png" alt="Byte Software Banner">
+  <img src="https://bytesoftware.net/images/banner_rounded.png" alt="Byte Software Banner">
 </p>
